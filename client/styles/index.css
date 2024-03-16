@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header button {
+  padding: 10px;
+  border-radius: 5px;
+}
+header button:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
