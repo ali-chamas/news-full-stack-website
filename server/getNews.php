@@ -28,6 +28,7 @@ $news = [];
     $news[] = $new;
     }
 
+    
     $response['news']=$news;
 
 echo json_encode($response);
