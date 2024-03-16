@@ -37,6 +37,7 @@ header {
 
 .news-container {
   flex-wrap: wrap;
+  margin-bottom: 20px;
 }
 
 .news-card {
