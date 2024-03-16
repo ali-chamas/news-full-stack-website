@@ -10,9 +10,26 @@
 .align-center {
   align-items: center;
 }
+.center {
+  align-items: center;
+  justify-content: center;
+}
+.w-dull {
+  width: 100%;
+}
 .gap {
   gap: 30px;
 }
 .p {
   padding: 20px;
+}
+
+.input-style {
+  padding: 10px;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
 }
